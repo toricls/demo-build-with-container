@@ -2,13 +2,21 @@
   "name": "building-with-container-demo",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toricls/demo-build-with-container.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tori Hara (@toricls)",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/toricls/demo-build-with-container/issues"
+  },
+  "homepage": "https://github.com/toricls/demo-build-with-container#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.1"
   }
 }
